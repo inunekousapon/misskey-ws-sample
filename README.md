@@ -1,5 +1,7 @@
 Websocketを使ったMisskeyクライアントのサンプルです。
-SDK的な立ち位置にできるか試しています。
+
+公式はこちらにあるよ。
+https://www.npmjs.com/package/misskey-js
 
 必要条件
 --------
